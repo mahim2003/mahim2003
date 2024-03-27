@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahim Chaudhary
 
-I'm currently working as a Software Engineer Intern, driven by collaboration and a perpetual hunger for innovation. My dedication lies in translating imaginative ideas into intuitive software solutions that resonate with users.
+I'm currently working as a Software Engineer Intern, driven by collaboration and a hunger for innovation. My dedication lies in translating ideas into intuitive software solutions that resonate with users.
 
 🌍 Based in Vancouver  
 🖥️ Check out my portfolio at [MyPortfolio](http://mahimchaudhary.vercel.app)  
